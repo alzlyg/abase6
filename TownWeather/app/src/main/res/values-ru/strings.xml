@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="text_input_town">Выберите город:</string>
+    <string name="text_view_wind">Показывать информацию о ветре</string>
+    <string name="text_view_wet">Показывать информацию о влажности</string>
+    <string name="text_view_pressure">Показывать информацию о давлении</string>
+    <string name="activity_main_button_text">Показать погоду</string>
+</resources>

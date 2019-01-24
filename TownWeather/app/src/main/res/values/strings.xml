@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Weather</string>
+    <string name="text_input_town">Select town:</string>
+    <string name="text_view_wind">Show wind</string>
+    <string name="text_view_wet">Show wet</string>
+    <string name="text_view_pressure">Show pressure</string>
+    <string name="activity_main_button_text">Show the weather</string>
+</resources>

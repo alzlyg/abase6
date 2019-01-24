@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_main_text_view_text_size">14sp</dimen>
+    <dimen name="activity_main_checkbox_title_text_size">16sp</dimen>
+    <dimen name="activity_main_fragment_town_height">250sp</dimen>
+    <dimen name="activity_main_fragment_town_width">300sp</dimen>
+    <dimen name="fragment_town_textsize">16sp</dimen>
+</resources>
